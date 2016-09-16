@@ -1,9 +1,9 @@
-Building RitzcoinPlus
+Building RitzPlus
 
-See doc/readme-qt.rst for instructions on building RitzcoinPlus-Qt,
+See doc/readme-qt.rst for instructions on building RitzPlus-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of RitzcoinPlus.
 
-See doc/build-*.txt for instructions on building RitzcoinPlusd,
+See doc/build-*.txt for instructions on building RitzPlusd,
 the intended-for-services, no-graphical-interface, reference
-implementation of RitzcoinPlus.
+implementation of RitzPlus.
