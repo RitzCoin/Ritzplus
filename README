@@ -24,7 +24,7 @@ Early 2031 there will be approximately 500,000,000 coins.
 Each subsequent block will grant 70 coins to encourage miners to continue to secure the network and make up for lost wallets on hard drives/phones/lost encryption passwords/etc.
 
 ### How to get Ritzplus?
-Ritzcoin uses an advanced X11 Hashing Algorithm. Because it was designed specifically for cryptocurrencies, X11 has the one of the most sophisticated cryptographic hashes currently in use. It has the advantage of a multi-hash system, meaning that in order for the algorithm to fail, all eleven of its hashes would have to fail at the same time. Taking into account the very minute probability that even one hash would be broken, the chance of the X11 system failing becomes almost zero.
+Ritzplus uses an advanced X11 Hashing Algorithm. Because it was designed specifically for cryptocurrencies, X11 has the one of the most sophisticated cryptographic hashes currently in use. It has the advantage of a multi-hash system, meaning that in order for the algorithm to fail, all eleven of its hashes would have to fail at the same time. Taking into account the very minute probability that even one hash would be broken, the chance of the X11 system failing becomes almost zero.
 
 Originally, a different payout scheme was envisioned with block rewards being determined by taking the maximum reward as per the block schedule and applying the result of a Mersenne Twister pseudo-random number generator to arrive at a number between 0 and the maximum reward.
 
